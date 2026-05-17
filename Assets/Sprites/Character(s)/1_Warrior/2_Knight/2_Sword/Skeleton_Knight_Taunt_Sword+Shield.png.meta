@@ -1,0 +1,585 @@
+fileFormatVersion: 2
+guid: cac616d70f5a361469531b553463e0a5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2772461734311168353
+    second: Skeleton_Knight_Taunt_Sword+Shield_0
+  - first:
+      213: -2457568232801525127
+    second: Skeleton_Knight_Taunt_Sword+Shield_1
+  - first:
+      213: -1147739749138633149
+    second: Skeleton_Knight_Taunt_Sword+Shield_2
+  - first:
+      213: 1660921466440699367
+    second: Skeleton_Knight_Taunt_Sword+Shield_3
+  - first:
+      213: 1931060346744159313
+    second: Skeleton_Knight_Taunt_Sword+Shield_4
+  - first:
+      213: -9006726389061761162
+    second: Skeleton_Knight_Taunt_Sword+Shield_5
+  - first:
+      213: -6101333800089750231
+    second: Skeleton_Knight_Taunt_Sword+Shield_6
+  - first:
+      213: -8105416193242800553
+    second: Skeleton_Knight_Taunt_Sword+Shield_7
+  - first:
+      213: -7168428542787327177
+    second: Skeleton_Knight_Taunt_Sword+Shield_8
+  - first:
+      213: 4147339443697944986
+    second: Skeleton_Knight_Taunt_Sword+Shield_9
+  - first:
+      213: 5095098450162170469
+    second: Skeleton_Knight_Taunt_Sword+Shield_10
+  - first:
+      213: 401856887214349015
+    second: Skeleton_Knight_Taunt_Sword+Shield_11
+  - first:
+      213: -513411589814730037
+    second: Skeleton_Knight_Taunt_Sword+Shield_12
+  - first:
+      213: -4112492808183774045
+    second: Skeleton_Knight_Taunt_Sword+Shield_13
+  - first:
+      213: 5559976958890670019
+    second: Skeleton_Knight_Taunt_Sword+Shield_14
+  - first:
+      213: 9092554634412965144
+    second: Skeleton_Knight_Taunt_Sword+Shield_15
+  - first:
+      213: -6483928090218620956
+    second: Skeleton_Knight_Taunt_Sword+Shield_16
+  - first:
+      213: 8461240891906961595
+    second: Skeleton_Knight_Taunt_Sword+Shield_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Skeleton_Knight_Taunt_Sword+Shield_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 15
+        width: 38
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f96f405edbc3689d0800000000000000
+      internalID: -2772461734311168353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_Knight_Taunt_Sword+Shield_1
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 15
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 972a49886b6f4edd0800000000000000
+      internalID: -2457568232801525127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_Knight_Taunt_Sword+Shield_2
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 15
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34eeef577c86210f0800000000000000
+      internalID: -1147739749138633149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_Knight_Taunt_Sword+Shield_3
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 15
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7edc4071647cc0710800000000000000
+      internalID: 1660921466440699367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_Knight_Taunt_Sword+Shield_4
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 15
+        width: 38
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15c378777218cca10800000000000000
+      internalID: 1931060346744159313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_Knight_Taunt_Sword+Shield_5
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 15
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67746de911ea10380800000000000000
+      internalID: -9006726389061761162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_Knight_Taunt_Sword+Shield_6
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 15
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 925f09d2c35b35ba0800000000000000
+      internalID: -6101333800089750231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_Knight_Taunt_Sword+Shield_7
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 15
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75e5015aae6c38f80800000000000000
+      internalID: -8105416193242800553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_Knight_Taunt_Sword+Shield_8
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 15
+        width: 38
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73be3656830a48c90800000000000000
+      internalID: -7168428542787327177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_Knight_Taunt_Sword+Shield_9
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 15
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a990590204f4e8930800000000000000
+      internalID: 4147339443697944986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_Knight_Taunt_Sword+Shield_10
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 15
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56a3f81ab0d65b640800000000000000
+      internalID: 5095098450162170469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_Knight_Taunt_Sword+Shield_11
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 15
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7da94f4b5bea39500800000000000000
+      internalID: 401856887214349015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_Knight_Taunt_Sword+Shield_12
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 15
+        width: 35
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc2468511eeffd8f0800000000000000
+      internalID: -513411589814730037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_Knight_Taunt_Sword+Shield_13
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 15
+        width: 41
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a48bd2749d7de6c0800000000000000
+      internalID: -4112492808183774045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_Knight_Taunt_Sword+Shield_14
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 15
+        width: 41
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c7f80a0691092d40800000000000000
+      internalID: 5559976958890670019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_Knight_Taunt_Sword+Shield_15
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 15
+        width: 41
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81d340df34e3f2e70800000000000000
+      internalID: 9092554634412965144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_Knight_Taunt_Sword+Shield_16
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 15
+        width: 41
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e7975951c57406a0800000000000000
+      internalID: -6483928090218620956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_Knight_Taunt_Sword+Shield_17
+      rect:
+        serializedVersion: 2
+        x: 1099
+        y: 15
+        width: 35
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb0bf19f2cd5c6570800000000000000
+      internalID: 8461240891906961595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Skeleton_Knight_Taunt_Sword+Shield_0: -2772461734311168353
+      Skeleton_Knight_Taunt_Sword+Shield_1: -2457568232801525127
+      Skeleton_Knight_Taunt_Sword+Shield_10: 5095098450162170469
+      Skeleton_Knight_Taunt_Sword+Shield_11: 401856887214349015
+      Skeleton_Knight_Taunt_Sword+Shield_12: -513411589814730037
+      Skeleton_Knight_Taunt_Sword+Shield_13: -4112492808183774045
+      Skeleton_Knight_Taunt_Sword+Shield_14: 5559976958890670019
+      Skeleton_Knight_Taunt_Sword+Shield_15: 9092554634412965144
+      Skeleton_Knight_Taunt_Sword+Shield_16: -6483928090218620956
+      Skeleton_Knight_Taunt_Sword+Shield_17: 8461240891906961595
+      Skeleton_Knight_Taunt_Sword+Shield_2: -1147739749138633149
+      Skeleton_Knight_Taunt_Sword+Shield_3: 1660921466440699367
+      Skeleton_Knight_Taunt_Sword+Shield_4: 1931060346744159313
+      Skeleton_Knight_Taunt_Sword+Shield_5: -9006726389061761162
+      Skeleton_Knight_Taunt_Sword+Shield_6: -6101333800089750231
+      Skeleton_Knight_Taunt_Sword+Shield_7: -8105416193242800553
+      Skeleton_Knight_Taunt_Sword+Shield_8: -7168428542787327177
+      Skeleton_Knight_Taunt_Sword+Shield_9: 4147339443697944986
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

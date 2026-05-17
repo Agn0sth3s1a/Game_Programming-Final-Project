@@ -1,0 +1,377 @@
+fileFormatVersion: 2
+guid: b7cfdfc6b70620344a5663c24bfa9022
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1591454209577265652
+    second: Skeleton_Knight_Taunt_Unarmed_0
+  - first:
+      213: 7288450366978299515
+    second: Skeleton_Knight_Taunt_Unarmed_1
+  - first:
+      213: -1421985547988624766
+    second: Skeleton_Knight_Taunt_Unarmed_2
+  - first:
+      213: -7745468518812269709
+    second: Skeleton_Knight_Taunt_Unarmed_3
+  - first:
+      213: -3996238197895155770
+    second: Skeleton_Knight_Taunt_Unarmed_4
+  - first:
+      213: 4791787861471675314
+    second: Skeleton_Knight_Taunt_Unarmed_5
+  - first:
+      213: -288183760437411382
+    second: Skeleton_Knight_Taunt_Unarmed_6
+  - first:
+      213: -1185483952951332778
+    second: Skeleton_Knight_Taunt_Unarmed_7
+  - first:
+      213: 8970358565977461831
+    second: Skeleton_Knight_Taunt_Unarmed_8
+  - first:
+      213: 7233621088867375958
+    second: Skeleton_Knight_Taunt_Unarmed_9
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Skeleton_Knight_Taunt_Unarmed_0
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 15
+        width: 24
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f92726fb2bf51610800000000000000
+      internalID: 1591454209577265652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_Knight_Taunt_Unarmed_1
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 15
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b769ece2ef6c52560800000000000000
+      internalID: 7288450366978299515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_Knight_Taunt_Unarmed_2
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 15
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28a16689da7144ce0800000000000000
+      internalID: -1421985547988624766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_Knight_Taunt_Unarmed_3
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 15
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 373493d5b61928490800000000000000
+      internalID: -7745468518812269709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_Knight_Taunt_Unarmed_4
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 15
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cfac9038828a88c0800000000000000
+      internalID: -3996238197895155770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_Knight_Taunt_Unarmed_5
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 15
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b34c0a0ca9df7240800000000000000
+      internalID: 4791787861471675314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_Knight_Taunt_Unarmed_6
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 15
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac18711956a200cf0800000000000000
+      internalID: -288183760437411382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_Knight_Taunt_Unarmed_7
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 15
+        width: 25
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 650f86130a05c8fe0800000000000000
+      internalID: -1185483952951332778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_Knight_Taunt_Unarmed_8
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 15
+        width: 23
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74418f8b69d1d7c70800000000000000
+      internalID: 8970358565977461831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_Knight_Taunt_Unarmed_9
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 15
+        width: 23
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65bd6b11e0cf26460800000000000000
+      internalID: 7233621088867375958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Skeleton_Knight_Taunt_Unarmed_0: 1591454209577265652
+      Skeleton_Knight_Taunt_Unarmed_1: 7288450366978299515
+      Skeleton_Knight_Taunt_Unarmed_2: -1421985547988624766
+      Skeleton_Knight_Taunt_Unarmed_3: -7745468518812269709
+      Skeleton_Knight_Taunt_Unarmed_4: -3996238197895155770
+      Skeleton_Knight_Taunt_Unarmed_5: 4791787861471675314
+      Skeleton_Knight_Taunt_Unarmed_6: -288183760437411382
+      Skeleton_Knight_Taunt_Unarmed_7: -1185483952951332778
+      Skeleton_Knight_Taunt_Unarmed_8: 8970358565977461831
+      Skeleton_Knight_Taunt_Unarmed_9: 7233621088867375958
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

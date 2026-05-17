@@ -1,0 +1,585 @@
+fileFormatVersion: 2
+guid: 7eaa6405a1e90ce4ca87d46b050e231c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5994620358539184998
+    second: Skeleton_Default_Taunt_Unarmed+Shield_0
+  - first:
+      213: -6299363362231353321
+    second: Skeleton_Default_Taunt_Unarmed+Shield_1
+  - first:
+      213: 6204467649476920844
+    second: Skeleton_Default_Taunt_Unarmed+Shield_2
+  - first:
+      213: 1411647605741510937
+    second: Skeleton_Default_Taunt_Unarmed+Shield_3
+  - first:
+      213: 5473491682640945742
+    second: Skeleton_Default_Taunt_Unarmed+Shield_4
+  - first:
+      213: -1625189470429992051
+    second: Skeleton_Default_Taunt_Unarmed+Shield_5
+  - first:
+      213: 6433910438652826631
+    second: Skeleton_Default_Taunt_Unarmed+Shield_6
+  - first:
+      213: 1500311869469136850
+    second: Skeleton_Default_Taunt_Unarmed+Shield_7
+  - first:
+      213: 7060584869675092617
+    second: Skeleton_Default_Taunt_Unarmed+Shield_8
+  - first:
+      213: 1986278890611207810
+    second: Skeleton_Default_Taunt_Unarmed+Shield_9
+  - first:
+      213: 7768493281023513685
+    second: Skeleton_Default_Taunt_Unarmed+Shield_10
+  - first:
+      213: 4587123238586028595
+    second: Skeleton_Default_Taunt_Unarmed+Shield_11
+  - first:
+      213: -346860447965252807
+    second: Skeleton_Default_Taunt_Unarmed+Shield_12
+  - first:
+      213: 7219193537831099188
+    second: Skeleton_Default_Taunt_Unarmed+Shield_13
+  - first:
+      213: -5351728314604595169
+    second: Skeleton_Default_Taunt_Unarmed+Shield_14
+  - first:
+      213: 5938189212552003878
+    second: Skeleton_Default_Taunt_Unarmed+Shield_15
+  - first:
+      213: -6129014081391487646
+    second: Skeleton_Default_Taunt_Unarmed+Shield_16
+  - first:
+      213: 4420869656405930182
+    second: Skeleton_Default_Taunt_Unarmed+Shield_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 18
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Skeleton_Default_Taunt_Unarmed+Shield_0
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 15
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66b8d0a847b213350800000000000000
+      internalID: 5994620358539184998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_Default_Taunt_Unarmed+Shield_1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 15
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7100713c56a2498a0800000000000000
+      internalID: -6299363362231353321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_Default_Taunt_Unarmed+Shield_2
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 15
+        width: 23
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c06897b5472ba1650800000000000000
+      internalID: 6204467649476920844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_Default_Taunt_Unarmed+Shield_3
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 15
+        width: 23
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 911e048a40e279310800000000000000
+      internalID: 1411647605741510937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_Default_Taunt_Unarmed+Shield_4
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 15
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e426ed08fafb5fb40800000000000000
+      internalID: 5473491682640945742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_Default_Taunt_Unarmed+Shield_5
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 15
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8ba05a89ca2279e0800000000000000
+      internalID: -1625189470429992051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_Default_Taunt_Unarmed+Shield_6
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 15
+        width: 23
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7045494a477d94950800000000000000
+      internalID: 6433910438652826631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_Default_Taunt_Unarmed+Shield_7
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 15
+        width: 23
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d7920042bd22d410800000000000000
+      internalID: 1500311869469136850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_Default_Taunt_Unarmed+Shield_8
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 15
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98a4b77c78c3cf160800000000000000
+      internalID: 7060584869675092617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_Default_Taunt_Unarmed+Shield_9
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 15
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28eecb3902ea09b10800000000000000
+      internalID: 1986278890611207810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_Default_Taunt_Unarmed+Shield_10
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 15
+        width: 23
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5545a67da7b3fcb60800000000000000
+      internalID: 7768493281023513685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_Default_Taunt_Unarmed+Shield_11
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 15
+        width: 23
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3321cd8284cb8af30800000000000000
+      internalID: 4587123238586028595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_Default_Taunt_Unarmed+Shield_12
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 15
+        width: 23
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 933f564a244bf2bf0800000000000000
+      internalID: -346860447965252807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_Default_Taunt_Unarmed+Shield_13
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 15
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43bd733164abf2460800000000000000
+      internalID: 7219193537831099188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_Default_Taunt_Unarmed+Shield_14
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 15
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f18d799d377dab5b0800000000000000
+      internalID: -5351728314604595169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_Default_Taunt_Unarmed+Shield_15
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 15
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 621083f70afa86250800000000000000
+      internalID: 5938189212552003878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_Default_Taunt_Unarmed+Shield_16
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 15
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2651b477a2e51faa0800000000000000
+      internalID: -6129014081391487646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_Default_Taunt_Unarmed+Shield_17
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 15
+        width: 23
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c0f06c97851a5d30800000000000000
+      internalID: 4420869656405930182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Skeleton_Default_Taunt_Unarmed+Shield_0: 5994620358539184998
+      Skeleton_Default_Taunt_Unarmed+Shield_1: -6299363362231353321
+      Skeleton_Default_Taunt_Unarmed+Shield_10: 7768493281023513685
+      Skeleton_Default_Taunt_Unarmed+Shield_11: 4587123238586028595
+      Skeleton_Default_Taunt_Unarmed+Shield_12: -346860447965252807
+      Skeleton_Default_Taunt_Unarmed+Shield_13: 7219193537831099188
+      Skeleton_Default_Taunt_Unarmed+Shield_14: -5351728314604595169
+      Skeleton_Default_Taunt_Unarmed+Shield_15: 5938189212552003878
+      Skeleton_Default_Taunt_Unarmed+Shield_16: -6129014081391487646
+      Skeleton_Default_Taunt_Unarmed+Shield_17: 4420869656405930182
+      Skeleton_Default_Taunt_Unarmed+Shield_2: 6204467649476920844
+      Skeleton_Default_Taunt_Unarmed+Shield_3: 1411647605741510937
+      Skeleton_Default_Taunt_Unarmed+Shield_4: 5473491682640945742
+      Skeleton_Default_Taunt_Unarmed+Shield_5: -1625189470429992051
+      Skeleton_Default_Taunt_Unarmed+Shield_6: 6433910438652826631
+      Skeleton_Default_Taunt_Unarmed+Shield_7: 1500311869469136850
+      Skeleton_Default_Taunt_Unarmed+Shield_8: 7060584869675092617
+      Skeleton_Default_Taunt_Unarmed+Shield_9: 1986278890611207810
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

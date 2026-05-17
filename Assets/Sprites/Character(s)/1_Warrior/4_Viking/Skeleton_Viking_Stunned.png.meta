@@ -1,0 +1,403 @@
+fileFormatVersion: 2
+guid: 85aa5f02af943a74aa6f35a62ef92b33
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 830954061314809895
+    second: Skeleton_Viking_Stunned_0
+  - first:
+      213: -1866315365056740056
+    second: Skeleton_Viking_Stunned_1
+  - first:
+      213: 8627209118025507308
+    second: Skeleton_Viking_Stunned_2
+  - first:
+      213: -9106230708190671333
+    second: Skeleton_Viking_Stunned_3
+  - first:
+      213: 4551244974068272961
+    second: Skeleton_Viking_Stunned_4
+  - first:
+      213: -289257020928067661
+    second: Skeleton_Viking_Stunned_5
+  - first:
+      213: 2293297639702701876
+    second: Skeleton_Viking_Stunned_6
+  - first:
+      213: -6245797514603578956
+    second: Skeleton_Viking_Stunned_7
+  - first:
+      213: -3681821272051228920
+    second: Skeleton_Viking_Stunned_8
+  - first:
+      213: -2670195508581436681
+    second: Skeleton_Viking_Stunned_9
+  - first:
+      213: -3065586901961789417
+    second: Skeleton_Viking_Stunned_10
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Skeleton_Viking_Stunned_0
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 15
+        width: 29
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7206651f054288b00800000000000000
+      internalID: 830954061314809895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_Viking_Stunned_1
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 15
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82580fa40148916e0800000000000000
+      internalID: -1866315365056740056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_Viking_Stunned_2
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 15
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce1ebe2ebf00ab770800000000000000
+      internalID: 8627209118025507308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_Viking_Stunned_3
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 15
+        width: 27
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1e8a83fa6b20a180800000000000000
+      internalID: -9106230708190671333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_Viking_Stunned_4
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 15
+        width: 26
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14f0f1db035492f30800000000000000
+      internalID: 4551244974068272961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_Viking_Stunned_5
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 50
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b77bc2a54a5cfbf0800000000000000
+      internalID: -289257020928067661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_Viking_Stunned_6
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 15
+        width: 26
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 437a8ba8d0e63df10800000000000000
+      internalID: 2293297639702701876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_Viking_Stunned_7
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 50
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b9390b80487259a0800000000000000
+      internalID: -6245797514603578956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_Viking_Stunned_8
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 15
+        width: 27
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80fd8e86f0b87ecc0800000000000000
+      internalID: -3681821272051228920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_Viking_Stunned_9
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 15
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f2f82e055f81fad0800000000000000
+      internalID: -2670195508581436681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_Viking_Stunned_10
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 50
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7103a7074f8d475d0800000000000000
+      internalID: -3065586901961789417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Skeleton_Viking_Stunned_0: 830954061314809895
+      Skeleton_Viking_Stunned_1: -1866315365056740056
+      Skeleton_Viking_Stunned_10: -3065586901961789417
+      Skeleton_Viking_Stunned_2: 8627209118025507308
+      Skeleton_Viking_Stunned_3: -9106230708190671333
+      Skeleton_Viking_Stunned_4: 4551244974068272961
+      Skeleton_Viking_Stunned_5: -289257020928067661
+      Skeleton_Viking_Stunned_6: 2293297639702701876
+      Skeleton_Viking_Stunned_7: -6245797514603578956
+      Skeleton_Viking_Stunned_8: -3681821272051228920
+      Skeleton_Viking_Stunned_9: -2670195508581436681
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

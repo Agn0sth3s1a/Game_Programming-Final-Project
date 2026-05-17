@@ -1,0 +1,585 @@
+fileFormatVersion: 2
+guid: c8d2527988c2cd54c9e517c916820763
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8776775992666511206
+    second: Skeleton_Viking_Taunt_Unarmed+Shield_0
+  - first:
+      213: -32500361380520801
+    second: Skeleton_Viking_Taunt_Unarmed+Shield_1
+  - first:
+      213: 7313497263560833086
+    second: Skeleton_Viking_Taunt_Unarmed+Shield_2
+  - first:
+      213: -5647826779986168129
+    second: Skeleton_Viking_Taunt_Unarmed+Shield_3
+  - first:
+      213: -5925102517489037864
+    second: Skeleton_Viking_Taunt_Unarmed+Shield_4
+  - first:
+      213: 4170868000042784577
+    second: Skeleton_Viking_Taunt_Unarmed+Shield_5
+  - first:
+      213: 512121803070407646
+    second: Skeleton_Viking_Taunt_Unarmed+Shield_6
+  - first:
+      213: 7952688481867114492
+    second: Skeleton_Viking_Taunt_Unarmed+Shield_7
+  - first:
+      213: -1704526833458164749
+    second: Skeleton_Viking_Taunt_Unarmed+Shield_8
+  - first:
+      213: 6212975194168296010
+    second: Skeleton_Viking_Taunt_Unarmed+Shield_9
+  - first:
+      213: -1630365236808577625
+    second: Skeleton_Viking_Taunt_Unarmed+Shield_10
+  - first:
+      213: 2285568587484425450
+    second: Skeleton_Viking_Taunt_Unarmed+Shield_11
+  - first:
+      213: 5811414439787596972
+    second: Skeleton_Viking_Taunt_Unarmed+Shield_12
+  - first:
+      213: -6028857967906872831
+    second: Skeleton_Viking_Taunt_Unarmed+Shield_13
+  - first:
+      213: 5322644612114097885
+    second: Skeleton_Viking_Taunt_Unarmed+Shield_14
+  - first:
+      213: 5824066126266492152
+    second: Skeleton_Viking_Taunt_Unarmed+Shield_15
+  - first:
+      213: -1693171723873469644
+    second: Skeleton_Viking_Taunt_Unarmed+Shield_16
+  - first:
+      213: -7223693448199646019
+    second: Skeleton_Viking_Taunt_Unarmed+Shield_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Skeleton_Viking_Taunt_Unarmed+Shield_0
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 15
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6675014934f5dc970800000000000000
+      internalID: 8776775992666511206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_Viking_Taunt_Unarmed+Shield_1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 15
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9c97d0f7198c8ff0800000000000000
+      internalID: -32500361380520801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_Viking_Taunt_Unarmed+Shield_2
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 15
+        width: 27
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e38b55c3303ce7560800000000000000
+      internalID: 7313497263560833086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_Viking_Taunt_Unarmed+Shield_3
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 15
+        width: 27
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb67cf19773ee91b0800000000000000
+      internalID: -5647826779986168129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_Viking_Taunt_Unarmed+Shield_4
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 15
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dd0b4327aec5cda0800000000000000
+      internalID: -5925102517489037864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_Viking_Taunt_Unarmed+Shield_5
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 15
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 147189b0956e1e930800000000000000
+      internalID: 4170868000042784577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_Viking_Taunt_Unarmed+Shield_6
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 15
+        width: 27
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed38eb9011c6b1700800000000000000
+      internalID: 512121803070407646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_Viking_Taunt_Unarmed+Shield_7
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 15
+        width: 27
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf7a7030a00ad5e60800000000000000
+      internalID: 7952688481867114492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_Viking_Taunt_Unarmed+Shield_8
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 15
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fbca9d30ed4858e0800000000000000
+      internalID: -1704526833458164749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_Viking_Taunt_Unarmed+Shield_9
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 15
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4207b6750ce83650800000000000000
+      internalID: 6212975194168296010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_Viking_Taunt_Unarmed+Shield_10
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 15
+        width: 27
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ad01e58477cf59e0800000000000000
+      internalID: -1630365236808577625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_Viking_Taunt_Unarmed+Shield_11
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 15
+        width: 27
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aececc65588f7bf10800000000000000
+      internalID: 2285568587484425450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_Viking_Taunt_Unarmed+Shield_12
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 15
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cac8d1e84aa46a050800000000000000
+      internalID: 5811414439787596972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_Viking_Taunt_Unarmed+Shield_13
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 15
+        width: 33
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 102a0a5de91355ca0800000000000000
+      internalID: -6028857967906872831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_Viking_Taunt_Unarmed+Shield_14
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 15
+        width: 35
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd625baf215ddd940800000000000000
+      internalID: 5322644612114097885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_Viking_Taunt_Unarmed+Shield_15
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 15
+        width: 35
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f4ef7cd84d33d050800000000000000
+      internalID: 5824066126266492152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_Viking_Taunt_Unarmed+Shield_16
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 15
+        width: 33
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43b39c6b945a088e0800000000000000
+      internalID: -1693171723873469644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_Viking_Taunt_Unarmed+Shield_17
+      rect:
+        serializedVersion: 2
+        x: 1109
+        y: 15
+        width: 24
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db45eb5e41940cb90800000000000000
+      internalID: -7223693448199646019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Skeleton_Viking_Taunt_Unarmed+Shield_0: 8776775992666511206
+      Skeleton_Viking_Taunt_Unarmed+Shield_1: -32500361380520801
+      Skeleton_Viking_Taunt_Unarmed+Shield_10: -1630365236808577625
+      Skeleton_Viking_Taunt_Unarmed+Shield_11: 2285568587484425450
+      Skeleton_Viking_Taunt_Unarmed+Shield_12: 5811414439787596972
+      Skeleton_Viking_Taunt_Unarmed+Shield_13: -6028857967906872831
+      Skeleton_Viking_Taunt_Unarmed+Shield_14: 5322644612114097885
+      Skeleton_Viking_Taunt_Unarmed+Shield_15: 5824066126266492152
+      Skeleton_Viking_Taunt_Unarmed+Shield_16: -1693171723873469644
+      Skeleton_Viking_Taunt_Unarmed+Shield_17: -7223693448199646019
+      Skeleton_Viking_Taunt_Unarmed+Shield_2: 7313497263560833086
+      Skeleton_Viking_Taunt_Unarmed+Shield_3: -5647826779986168129
+      Skeleton_Viking_Taunt_Unarmed+Shield_4: -5925102517489037864
+      Skeleton_Viking_Taunt_Unarmed+Shield_5: 4170868000042784577
+      Skeleton_Viking_Taunt_Unarmed+Shield_6: 512121803070407646
+      Skeleton_Viking_Taunt_Unarmed+Shield_7: 7952688481867114492
+      Skeleton_Viking_Taunt_Unarmed+Shield_8: -1704526833458164749
+      Skeleton_Viking_Taunt_Unarmed+Shield_9: 6212975194168296010
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

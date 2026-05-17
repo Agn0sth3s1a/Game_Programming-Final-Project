@@ -1,0 +1,585 @@
+fileFormatVersion: 2
+guid: a87d3e4d4b8ad0749a0bb07703318a53
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 954781112087590294
+    second: Skeleton_Pirate_Taunt_Axe+Shield_0
+  - first:
+      213: -7311850563542949275
+    second: Skeleton_Pirate_Taunt_Axe+Shield_1
+  - first:
+      213: 657631836320905641
+    second: Skeleton_Pirate_Taunt_Axe+Shield_2
+  - first:
+      213: 2416915940633715953
+    second: Skeleton_Pirate_Taunt_Axe+Shield_3
+  - first:
+      213: 7194549744415940311
+    second: Skeleton_Pirate_Taunt_Axe+Shield_4
+  - first:
+      213: 6396088214277251101
+    second: Skeleton_Pirate_Taunt_Axe+Shield_5
+  - first:
+      213: 7188799592192467936
+    second: Skeleton_Pirate_Taunt_Axe+Shield_6
+  - first:
+      213: -2799998687543168957
+    second: Skeleton_Pirate_Taunt_Axe+Shield_7
+  - first:
+      213: 885674564874411632
+    second: Skeleton_Pirate_Taunt_Axe+Shield_8
+  - first:
+      213: -301457211582328706
+    second: Skeleton_Pirate_Taunt_Axe+Shield_9
+  - first:
+      213: 1370028734523831196
+    second: Skeleton_Pirate_Taunt_Axe+Shield_10
+  - first:
+      213: 2078875912435798821
+    second: Skeleton_Pirate_Taunt_Axe+Shield_11
+  - first:
+      213: 135264289559613152
+    second: Skeleton_Pirate_Taunt_Axe+Shield_12
+  - first:
+      213: -8458390389506624020
+    second: Skeleton_Pirate_Taunt_Axe+Shield_13
+  - first:
+      213: -5007938054688387950
+    second: Skeleton_Pirate_Taunt_Axe+Shield_14
+  - first:
+      213: 1509327160947442632
+    second: Skeleton_Pirate_Taunt_Axe+Shield_15
+  - first:
+      213: 1814363469301451404
+    second: Skeleton_Pirate_Taunt_Axe+Shield_16
+  - first:
+      213: 5426128738979918121
+    second: Skeleton_Pirate_Taunt_Axe+Shield_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Skeleton_Pirate_Taunt_Axe+Shield_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 15
+        width: 38
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 695bb30ec50104d00800000000000000
+      internalID: 954781112087590294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_Pirate_Taunt_Axe+Shield_1
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 15
+        width: 40
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 562684df6a6178a90800000000000000
+      internalID: -7311850563542949275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_Pirate_Taunt_Axe+Shield_2
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 15
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a935ecbba0602900800000000000000
+      internalID: 657631836320905641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_Pirate_Taunt_Axe+Shield_3
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 15
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f4a37d1e3c9a8120800000000000000
+      internalID: 2416915940633715953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_Pirate_Taunt_Axe+Shield_4
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 15
+        width: 38
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7de1acacfdc28d360800000000000000
+      internalID: 7194549744415940311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_Pirate_Taunt_Axe+Shield_5
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 15
+        width: 40
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d10ee0cc75873c850800000000000000
+      internalID: 6396088214277251101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_Pirate_Taunt_Axe+Shield_6
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 15
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e3ea16242fb3c360800000000000000
+      internalID: 7188799592192467936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_Pirate_Taunt_Axe+Shield_7
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 15
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 340fd6957086429d0800000000000000
+      internalID: -2799998687543168957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_Pirate_Taunt_Axe+Shield_8
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 15
+        width: 38
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07e10f1035c8a4c00800000000000000
+      internalID: 885674564874411632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_Pirate_Taunt_Axe+Shield_9
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 15
+        width: 40
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e70d7a4634201dbf0800000000000000
+      internalID: -301457211582328706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_Pirate_Taunt_Axe+Shield_10
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 15
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c93fe5510e1530310800000000000000
+      internalID: 1370028734523831196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_Pirate_Taunt_Axe+Shield_11
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 15
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5231ad4c0a6a9dc10800000000000000
+      internalID: 2078875912435798821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_Pirate_Taunt_Axe+Shield_12
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 15
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ee0ff9972e80e100800000000000000
+      internalID: 135264289559613152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_Pirate_Taunt_Axe+Shield_13
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 15
+        width: 41
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce531e551c2cd9a80800000000000000
+      internalID: -8458390389506624020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_Pirate_Taunt_Axe+Shield_14
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 15
+        width: 41
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29c43295fda308ab0800000000000000
+      internalID: -5007938054688387950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_Pirate_Taunt_Axe+Shield_15
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 15
+        width: 41
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c30f1e5e0532f410800000000000000
+      internalID: 1509327160947442632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_Pirate_Taunt_Axe+Shield_16
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 15
+        width: 41
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8a882166f9ed2910800000000000000
+      internalID: 1814363469301451404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_Pirate_Taunt_Axe+Shield_17
+      rect:
+        serializedVersion: 2
+        x: 1099
+        y: 15
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 921bf68d65b7d4b40800000000000000
+      internalID: 5426128738979918121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Skeleton_Pirate_Taunt_Axe+Shield_0: 954781112087590294
+      Skeleton_Pirate_Taunt_Axe+Shield_1: -7311850563542949275
+      Skeleton_Pirate_Taunt_Axe+Shield_10: 1370028734523831196
+      Skeleton_Pirate_Taunt_Axe+Shield_11: 2078875912435798821
+      Skeleton_Pirate_Taunt_Axe+Shield_12: 135264289559613152
+      Skeleton_Pirate_Taunt_Axe+Shield_13: -8458390389506624020
+      Skeleton_Pirate_Taunt_Axe+Shield_14: -5007938054688387950
+      Skeleton_Pirate_Taunt_Axe+Shield_15: 1509327160947442632
+      Skeleton_Pirate_Taunt_Axe+Shield_16: 1814363469301451404
+      Skeleton_Pirate_Taunt_Axe+Shield_17: 5426128738979918121
+      Skeleton_Pirate_Taunt_Axe+Shield_2: 657631836320905641
+      Skeleton_Pirate_Taunt_Axe+Shield_3: 2416915940633715953
+      Skeleton_Pirate_Taunt_Axe+Shield_4: 7194549744415940311
+      Skeleton_Pirate_Taunt_Axe+Shield_5: 6396088214277251101
+      Skeleton_Pirate_Taunt_Axe+Shield_6: 7188799592192467936
+      Skeleton_Pirate_Taunt_Axe+Shield_7: -2799998687543168957
+      Skeleton_Pirate_Taunt_Axe+Shield_8: 885674564874411632
+      Skeleton_Pirate_Taunt_Axe+Shield_9: -301457211582328706
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

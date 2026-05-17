@@ -1,0 +1,377 @@
+fileFormatVersion: 2
+guid: d9eabd15b86a56544ac633348b2b8b92
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6771755294139067725
+    second: Skeleton_Viking_Taunt_Axe_0
+  - first:
+      213: 6126794384451047056
+    second: Skeleton_Viking_Taunt_Axe_1
+  - first:
+      213: 7037937663833662108
+    second: Skeleton_Viking_Taunt_Axe_2
+  - first:
+      213: 2000217189746852043
+    second: Skeleton_Viking_Taunt_Axe_3
+  - first:
+      213: 8912893014412856819
+    second: Skeleton_Viking_Taunt_Axe_4
+  - first:
+      213: 2834833583531038827
+    second: Skeleton_Viking_Taunt_Axe_5
+  - first:
+      213: 5154511399842494964
+    second: Skeleton_Viking_Taunt_Axe_6
+  - first:
+      213: 2747197103724112638
+    second: Skeleton_Viking_Taunt_Axe_7
+  - first:
+      213: -4907913462539890982
+    second: Skeleton_Viking_Taunt_Axe_8
+  - first:
+      213: -6092289915693573066
+    second: Skeleton_Viking_Taunt_Axe_9
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Skeleton_Viking_Taunt_Axe_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 15
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b258f23074e502a0800000000000000
+      internalID: -6771755294139067725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_Viking_Taunt_Axe_1
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 15
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09e0011180fb60550800000000000000
+      internalID: 6126794384451047056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_Viking_Taunt_Axe_2
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 15
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c92e5244407cba160800000000000000
+      internalID: 7037937663833662108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_Viking_Taunt_Axe_3
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 15
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc0cd7cbfe232cb10800000000000000
+      internalID: 2000217189746852043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_Viking_Taunt_Axe_4
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 15
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fd832d59f4f0bb70800000000000000
+      internalID: 8912893014412856819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_Viking_Taunt_Axe_5
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 15
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6817b7ef1a575720800000000000000
+      internalID: 2834833583531038827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_Viking_Taunt_Axe_6
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 15
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f93052fec0888740800000000000000
+      internalID: 5154511399842494964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_Viking_Taunt_Axe_7
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 15
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efa2577e531002620800000000000000
+      internalID: 2747197103724112638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_Viking_Taunt_Axe_8
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 15
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adec3f485b693ebb0800000000000000
+      internalID: -4907913462539890982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_Viking_Taunt_Axe_9
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 15
+        width: 33
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63cd36a9996d37ba0800000000000000
+      internalID: -6092289915693573066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Skeleton_Viking_Taunt_Axe_0: -6771755294139067725
+      Skeleton_Viking_Taunt_Axe_1: 6126794384451047056
+      Skeleton_Viking_Taunt_Axe_2: 7037937663833662108
+      Skeleton_Viking_Taunt_Axe_3: 2000217189746852043
+      Skeleton_Viking_Taunt_Axe_4: 8912893014412856819
+      Skeleton_Viking_Taunt_Axe_5: 2834833583531038827
+      Skeleton_Viking_Taunt_Axe_6: 5154511399842494964
+      Skeleton_Viking_Taunt_Axe_7: 2747197103724112638
+      Skeleton_Viking_Taunt_Axe_8: -4907913462539890982
+      Skeleton_Viking_Taunt_Axe_9: -6092289915693573066
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

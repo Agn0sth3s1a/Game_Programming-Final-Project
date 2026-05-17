@@ -1,0 +1,585 @@
+fileFormatVersion: 2
+guid: d01320dc9c1529a4b827a04932db6319
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3499745031508049135
+    second: Skeleton_Pirate_Taunt_Unarmed+Shield_0
+  - first:
+      213: -4118955920518104115
+    second: Skeleton_Pirate_Taunt_Unarmed+Shield_1
+  - first:
+      213: 7869972963058462505
+    second: Skeleton_Pirate_Taunt_Unarmed+Shield_2
+  - first:
+      213: -5283879744162297764
+    second: Skeleton_Pirate_Taunt_Unarmed+Shield_3
+  - first:
+      213: 3721658550729654921
+    second: Skeleton_Pirate_Taunt_Unarmed+Shield_4
+  - first:
+      213: -5477854568734014564
+    second: Skeleton_Pirate_Taunt_Unarmed+Shield_5
+  - first:
+      213: -4507817280842671326
+    second: Skeleton_Pirate_Taunt_Unarmed+Shield_6
+  - first:
+      213: -2587630841270965653
+    second: Skeleton_Pirate_Taunt_Unarmed+Shield_7
+  - first:
+      213: -534264357838385940
+    second: Skeleton_Pirate_Taunt_Unarmed+Shield_8
+  - first:
+      213: 5463047239030892538
+    second: Skeleton_Pirate_Taunt_Unarmed+Shield_9
+  - first:
+      213: -3674912404291110124
+    second: Skeleton_Pirate_Taunt_Unarmed+Shield_10
+  - first:
+      213: -7709066849375594030
+    second: Skeleton_Pirate_Taunt_Unarmed+Shield_11
+  - first:
+      213: 301078780667639677
+    second: Skeleton_Pirate_Taunt_Unarmed+Shield_12
+  - first:
+      213: -3958781140758435523
+    second: Skeleton_Pirate_Taunt_Unarmed+Shield_13
+  - first:
+      213: 4876456985632850492
+    second: Skeleton_Pirate_Taunt_Unarmed+Shield_14
+  - first:
+      213: -955700724640409046
+    second: Skeleton_Pirate_Taunt_Unarmed+Shield_15
+  - first:
+      213: 9130822841328884444
+    second: Skeleton_Pirate_Taunt_Unarmed+Shield_16
+  - first:
+      213: 1256169253662661496
+    second: Skeleton_Pirate_Taunt_Unarmed+Shield_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Skeleton_Pirate_Taunt_Unarmed+Shield_0
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 15
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fecb97f4097919030800000000000000
+      internalID: 3499745031508049135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_Pirate_Taunt_Unarmed+Shield_1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 15
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcbb608d96786d6c0800000000000000
+      internalID: -4118955920518104115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_Pirate_Taunt_Unarmed+Shield_2
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 15
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92f270786b2c73d60800000000000000
+      internalID: 7869972963058462505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_Pirate_Taunt_Unarmed+Shield_3
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 15
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c58035d2e53eba6b0800000000000000
+      internalID: -5283879744162297764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_Pirate_Taunt_Unarmed+Shield_4
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 15
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9824983dbbcf5a330800000000000000
+      internalID: 3721658550729654921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_Pirate_Taunt_Unarmed+Shield_5
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 15
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c93cb5bea40caf3b0800000000000000
+      internalID: -5477854568734014564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_Pirate_Taunt_Unarmed+Shield_6
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 15
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22b510701140171c0800000000000000
+      internalID: -4507817280842671326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_Pirate_Taunt_Unarmed+Shield_7
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 15
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6ae230b573e61cd0800000000000000
+      internalID: -2587630841270965653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_Pirate_Taunt_Unarmed+Shield_8
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 15
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cec04eea569e598f0800000000000000
+      internalID: -534264357838385940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_Pirate_Taunt_Unarmed+Shield_9
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 15
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af76d99f484a0db40800000000000000
+      internalID: 5463047239030892538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_Pirate_Taunt_Unarmed+Shield_10
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 15
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41b3d8983a6100dc0800000000000000
+      internalID: -3674912404291110124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_Pirate_Taunt_Unarmed+Shield_11
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 15
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d95a3d7b84e30590800000000000000
+      internalID: -7709066849375594030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_Pirate_Taunt_Unarmed+Shield_12
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 15
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d773a1b4e85ad2400800000000000000
+      internalID: 301078780667639677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_Pirate_Taunt_Unarmed+Shield_13
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 15
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d39e399e6859f09c0800000000000000
+      internalID: -3958781140758435523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_Pirate_Taunt_Unarmed+Shield_14
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 15
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c324e17bac7aca340800000000000000
+      internalID: 4876456985632850492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_Pirate_Taunt_Unarmed+Shield_15
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 15
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2a9934214bacb2f0800000000000000
+      internalID: -955700724640409046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_Pirate_Taunt_Unarmed+Shield_16
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 15
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cda5e6c3ff237be70800000000000000
+      internalID: 9130822841328884444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_Pirate_Taunt_Unarmed+Shield_17
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 15
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87b945ed74fce6110800000000000000
+      internalID: 1256169253662661496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Skeleton_Pirate_Taunt_Unarmed+Shield_0: 3499745031508049135
+      Skeleton_Pirate_Taunt_Unarmed+Shield_1: -4118955920518104115
+      Skeleton_Pirate_Taunt_Unarmed+Shield_10: -3674912404291110124
+      Skeleton_Pirate_Taunt_Unarmed+Shield_11: -7709066849375594030
+      Skeleton_Pirate_Taunt_Unarmed+Shield_12: 301078780667639677
+      Skeleton_Pirate_Taunt_Unarmed+Shield_13: -3958781140758435523
+      Skeleton_Pirate_Taunt_Unarmed+Shield_14: 4876456985632850492
+      Skeleton_Pirate_Taunt_Unarmed+Shield_15: -955700724640409046
+      Skeleton_Pirate_Taunt_Unarmed+Shield_16: 9130822841328884444
+      Skeleton_Pirate_Taunt_Unarmed+Shield_17: 1256169253662661496
+      Skeleton_Pirate_Taunt_Unarmed+Shield_2: 7869972963058462505
+      Skeleton_Pirate_Taunt_Unarmed+Shield_3: -5283879744162297764
+      Skeleton_Pirate_Taunt_Unarmed+Shield_4: 3721658550729654921
+      Skeleton_Pirate_Taunt_Unarmed+Shield_5: -5477854568734014564
+      Skeleton_Pirate_Taunt_Unarmed+Shield_6: -4507817280842671326
+      Skeleton_Pirate_Taunt_Unarmed+Shield_7: -2587630841270965653
+      Skeleton_Pirate_Taunt_Unarmed+Shield_8: -534264357838385940
+      Skeleton_Pirate_Taunt_Unarmed+Shield_9: 5463047239030892538
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
